@@ -1,0 +1,27 @@
+{
+  "name": "internship",
+  "version": "0.0.1",
+  "description": "TODO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nino Nađ",
+  "license": "ISC",
+  "dependencies": {
+    "got": "^11.6.1",
+    "is-url": "^1.2.4",
+    "metascraper": "^5.14.8",
+    "metascraper-date": "^5.14.7",
+    "metascraper-description": "^5.14.7",
+    "metascraper-image": "^5.14.7",
+    "metascraper-logo": "^5.14.7",
+    "metascraper-title": "^5.14.7",
+    "metascraper-url": "^5.14.7",
+    "normalize-url": "^5.1.0",
+    "page-content": "^1.4.0",
+    "puppeteer": "^5.2.1",
+    "simple-node-logger": "^18.12.24",
+    "url-toolkit": "^2.2.0"
+  }
+}

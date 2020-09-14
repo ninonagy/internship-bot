@@ -1,0 +1,832 @@
+[
+  {
+    "baseUrl": "https://www.404.agency/en",
+    "url": "https://www.404.agency/en/careers/frontend-intern/",
+    "text": "Frontend intern",
+    "date": null,
+    "description": null,
+    "image": "https://www.404.agency/static/images/404-share-image.png",
+    "logo": null,
+    "title": "Frontend intern"
+  },
+  {
+    "baseUrl": "https://www.404.agency/en",
+    "url": "https://www.404.agency/en/careers/backend-intern/",
+    "text": "Backend intern",
+    "date": null,
+    "description": null,
+    "image": "https://www.404.agency/static/images/404-share-image.png",
+    "logo": null,
+    "title": "Backend intern"
+  },
+  {
+    "baseUrl": "https://adbsafegate.com/",
+    "url": "https://adbsafegate.com/about/career/",
+    "text": "Career",
+    "date": null,
+    "description": "We provide the technology and solutions that make airports more efficient, safer and sustainable, and reduce their operational costs. We partner with airports...",
+    "image": "https://adbsafegate.com/?width=600&height=315&mode=crop",
+    "logo": null,
+    "title": "Let your career take flight with ADB SAFEGATE - ADB SAFEGATE"
+  },
+  {
+    "baseUrl": "https://arm.com/",
+    "url": "https://arm.com/#",
+    "text": "See all jobs",
+    "date": null,
+    "description": "Arm architects the pervasive intelligence that is transforming our daily experience. Arm-based chips and device architectures orchestrate the performance of the technology that makes modern life possible.",
+    "image": "http://www.arm.com",
+    "logo": null,
+    "title": "Architecting a Smarter World – Arm"
+  },
+  {
+    "baseUrl": "https://arm.com/",
+    "url": "https://arm.com/saved-jobs",
+    "text": "Your saved jobs",
+    "date": null,
+    "description": null,
+    "image": "https://www.arm.com",
+    "logo": null,
+    "title": "404-123 – Arm"
+  },
+  {
+    "baseUrl": "https://arm.com/",
+    "url": "https://www.arm.com/company/careers/early-careers",
+    "text": "Early Careers",
+    "date": null,
+    "description": "At Arm, it’s the fresh ideas of our graduates and interns that help us to shape new technologies that drive 95% of all connected devices. We are Arm. You know us. Now see why you should join us.",
+    "image": "https://www.arm.com",
+    "logo": null,
+    "title": "Early Careers"
+  },
+  {
+    "baseUrl": "https://arm.com/",
+    "url": "https://careers.arm.com/graduate",
+    "text": "Search for Jobs",
+    "date": null,
+    "description": "Search our Job Opportunities at Arm",
+    "image": "https://tbcdn.talentbrew.com/company/33099/v1/img/og.jpg",
+    "logo": null,
+    "title": "Search our Job Opportunities at Arm"
+  },
+  {
+    "baseUrl": "https://arm.com/",
+    "url": "https://careers.arm.com/intern",
+    "text": "Search for Jobs",
+    "date": null,
+    "description": "Search our Job Opportunities at Arm",
+    "image": "https://tbcdn.talentbrew.com/company/33099/v1/img/og.jpg",
+    "logo": null,
+    "title": "Search our Job Opportunities at Arm"
+  },
+  {
+    "baseUrl": "https://arm.com/",
+    "url": "https://arm.com/job/austin/intern-research-devices-circuits-and-systems/33099/1273297520",
+    "text": "Intern, Research - Devices, Circuits, and Systems Austin, Texas",
+    "date": null,
+    "description": null,
+    "image": "https://www.arm.com",
+    "logo": null,
+    "title": "404-123 – Arm"
+  },
+  {
+    "baseUrl": "https://arm.com/",
+    "url": "https://arm.com/job/cambridge/research-intern-2021-security/33099/1256475264",
+    "text": "Research Intern 2021 - Security Cambridge, United Kingdom",
+    "date": null,
+    "description": null,
+    "image": "https://www.arm.com",
+    "logo": null,
+    "title": "404-123 – Arm"
+  },
+  {
+    "baseUrl": "https://arm.com/",
+    "url": "https://arm.com/job/cambridge/research-intern-2021-machine-learning/33099/1256475328",
+    "text": "Research Intern 2021 - Machine Learning Cambridge, United Kingdom",
+    "date": null,
+    "description": null,
+    "image": "https://www.arm.com",
+    "logo": null,
+    "title": "404-123 – Arm"
+  },
+  {
+    "baseUrl": "https://arm.com/",
+    "url": "https://arm.com/job/cambridge/research-intern-2021-devices-circuits-and-systems/33099/1256475984",
+    "text": "Research Intern 2021 - Devices, Circuits & Systems Cambridge, United Kingdom",
+    "date": null,
+    "description": null,
+    "image": "https://www.arm.com",
+    "logo": null,
+    "title": "404-123 – Arm"
+  },
+  {
+    "baseUrl": "https://arm.com/",
+    "url": "https://arm.com/job/cambridge/research-intern-2021-security-and-large-scale-systems-slss/33099/1256476048",
+    "text": "Research Intern 2021 - Security & Large Scale Systems (SLSS) Cambridge, United Kingdom",
+    "date": null,
+    "description": null,
+    "image": "https://www.arm.com",
+    "logo": null,
+    "title": "404-123 – Arm"
+  },
+  {
+    "baseUrl": "https://arm.com/",
+    "url": "https://arm.com/job/cambridge/research-intern-2021-architecture/33099/1256476128",
+    "text": "Research Intern 2021 - Architecture Cambridge, United Kingdom",
+    "date": null,
+    "description": null,
+    "image": "https://www.arm.com",
+    "logo": null,
+    "title": "404-123 – Arm"
+  },
+  {
+    "baseUrl": "https://arm.com/",
+    "url": "https://arm.com/job/austin/intern-software-engineer/33099/992655520",
+    "text": "Intern, Software Engineer Austin, Texas",
+    "date": null,
+    "description": null,
+    "image": "https://www.arm.com",
+    "logo": null,
+    "title": "404-123 – Arm"
+  },
+  {
+    "baseUrl": "https://arm.com/",
+    "url": "https://arm.com/job/austin/intern-hardware-engineering-austin-tx-chandler-az-san-jose-ca/33099/992655536",
+    "text": "Intern, Hardware Engineering (Austin, TX; Chandler, AZ; San Jose, CA) Austin, Texas",
+    "date": null,
+    "description": null,
+    "image": "https://www.arm.com",
+    "logo": null,
+    "title": "404-123 – Arm"
+  },
+  {
+    "baseUrl": "http://arsfutura.co/",
+    "url": "http://arsfutura.co/careers/full-stack-engineer-intern-74ffb884",
+    "text": "Full-Stack Engineer Intern We’re looking for a rising star in development. ⭐️ If you can handle a stack of work on our website, apply and join our team! Apply",
+    "date": null,
+    "description": "We’re looking for a rising star in development. ⭐️ If you can handle a stack of work on our website, apply and join our team!",
+    "image": "https://arsfutura-production.s3.amazonaws.com/jobs/og_images/000/000/022/original/Full-Stack_Engineer_Intern.png?1588263400",
+    "logo": null,
+    "title": "Full-Stack Engineer Intern"
+  },
+  {
+    "baseUrl": "https://atos.net/",
+    "url": "https://atos.net/search/",
+    "text": "Follow this link to reach our Job Search page to search for available jobs in a more accessible format.",
+    "date": "2020-09-10T10:00:00.000Z",
+    "description": null,
+    "image": "https://atos.net/content/assets/global-icons/global.png",
+    "logo": null,
+    "title": "Page not found - Atos"
+  },
+  {
+    "baseUrl": "https://atos.net/",
+    "url": "https://atos.net/en/careers/why-join-atos",
+    "text": "Watch and hear what some of our senior leaders and employees have to say about Atos, it’s business, career progression, and much more…",
+    "date": "2020-09-10T10:00:00.000Z",
+    "description": null,
+    "image": "https://atos.net/content/assets/global-icons/global.png",
+    "logo": null,
+    "title": "Why Join Atos - Atos"
+  },
+  {
+    "baseUrl": "https://atos.net/",
+    "url": "https://atos.net/en/careers/your-progression-at-atos",
+    "text": "Read more here about the various programmes and schemes we have to support your career progression at Atos",
+    "date": "2020-09-10T10:00:00.000Z",
+    "description": null,
+    "image": "https://atos.net/content/assets/global-icons/global.png",
+    "logo": null,
+    "title": "Your Progression At Atos - Atos"
+  },
+  {
+    "baseUrl": "https://bornfight.com/",
+    "url": "https://bornfight.com/work/eye-on-the-goal/",
+    "text": "07 Building a school improvement system for accelerated student learning Custom Software — Eye On The Goal",
+    "date": "2020-01-27T12:56:49.000Z",
+    "description": "Building a school improvement system for accelerated student learning.",
+    "image": "https://bornfight.com/wp-content/uploads/2018/08/eotg-1200-x-630.jpg",
+    "logo": null,
+    "title": "Case Study | Eye On The Goal"
+  },
+  {
+    "baseUrl": "http://bvs-cnc.de/",
+    "url": "http://bvs-cnc.de/karriere/stellenangebote/",
+    "text": "Jobs",
+    "date": null,
+    "description": null,
+    "image": "http://bvs-cnc.de/fileadmin/medialis/Resources/logos/bvs-logo.svg",
+    "logo": null,
+    "title": "Jobs"
+  },
+  {
+    "baseUrl": "http://byte-lab.com/",
+    "url": "https://www.byte-lab.com/topics/careers/",
+    "text": "Careers",
+    "date": "2020-01-28T15:36:40.000Z",
+    "description": "Careers archive.",
+    "image": "https://www.byte-lab.com/wp-content/uploads/2020/01/SENN9770-scaled.jpg",
+    "logo": null,
+    "title": "Careers Archive - Byte Lab"
+  },
+  {
+    "baseUrl": "https://www.cs.hr/home",
+    "url": "https://www.cs.hr/about-us/our-team",
+    "text": "Join our team Our team is always looking for the best. Join us!",
+    "date": "2016-11-14T00:00:00.000Z",
+    "description": "We develop our trainees into experienced professionals capable of assisting their clients to resolve critical business situations in a fast and simple way.",
+    "image": "https://www.cs.hr/imagegen.ashx?image=/images/cs-logo-486-255.jpg&width=486",
+    "logo": null,
+    "title": "Our Team - CS Computer Systems"
+  },
+  {
+    "baseUrl": "https://dspace.com/en/inc/home.cfm",
+    "url": "https://dspace.com/en/inc/home.cfm#iCareer1",
+    "text": "OverviewMore information on careers at dSPACE",
+    "date": null,
+    "description": "In high-tech industries around the world, engineers rely on dSPACE hardware and software solutions to develop and implement their visions with optimal speed and performance.\nWe take our clients to the forefront of mechatronics technology.",
+    "image": null,
+    "logo": null,
+    "title": "Home - dSPACE"
+  },
+  {
+    "baseUrl": "https://dspace.com/en/inc/home.cfm",
+    "url": "https://dspace.com/en/inc/career.cfm",
+    "text": "Career",
+    "date": null,
+    "description": null,
+    "image": "https://dspace.com/shared/img/images/logo.gif",
+    "logo": null,
+    "title": "dSPACE - Page Not Found"
+  },
+  {
+    "baseUrl": "http://dynatrace.com/",
+    "url": "https://www.dynatrace.com/company/careers/austria/jobs/?location=vienna%2C%20austria",
+    "text": "Careers in Vienna Vienna",
+    "date": null,
+    "description": "Deliver perfect software experiences with real-time intelligence into customer satisfaction and behavior, your applications, and the performance of your hybrid multi-cloud.",
+    "image": "https://dt-cdn.net/images/thomsen-photography-09-august-2018-15-1000-b137c9bd4b.jpg",
+    "logo": null,
+    "title": "Software intelligence for the enterprise cloud | Dynatrace"
+  },
+  {
+    "baseUrl": "http://dynatrace.com/",
+    "url": "http://dynatrace.com/company/careers/austria/jobs/",
+    "text": "Jobs",
+    "date": null,
+    "description": "Deliver perfect software experiences with real-time intelligence into customer satisfaction and behavior, your applications, and the performance of your hybrid multi-cloud.",
+    "image": "https://dt-cdn.net/images/thomsen-photography-09-august-2018-15-1000-b137c9bd4b.jpg",
+    "logo": null,
+    "title": "Software intelligence for the enterprise cloud | Dynatrace"
+  },
+  {
+    "baseUrl": "http://dynatrace.com/",
+    "url": "https://www.dynatrace.com/company/careers/austria/jobs/?location=hagenberg%2C%20austria",
+    "text": "Careers in Hagenberg Hagenberg",
+    "date": null,
+    "description": "Deliver perfect software experiences with real-time intelligence into customer satisfaction and behavior, your applications, and the performance of your hybrid multi-cloud.",
+    "image": "https://dt-cdn.net/images/thomsen-photography-09-august-2018-15-1000-b137c9bd4b.jpg",
+    "logo": null,
+    "title": "Software intelligence for the enterprise cloud | Dynatrace"
+  },
+  {
+    "baseUrl": "http://dynatrace.com/",
+    "url": "https://www.dynatrace.com/company/careers/global/",
+    "text": "All jobs",
+    "date": null,
+    "description": "Dynatrace provides digital performance management to some of the world’s largest brands. Join our team!",
+    "image": "https://dt-cdn.net/images/dynatrace-leader-in-cloud-monitoring-1200-c08d37c92b.png",
+    "logo": null,
+    "title": "Careers - Global | Dynatrace"
+  },
+  {
+    "baseUrl": "http://dynatrace.com/",
+    "url": "http://dynatrace.com/company/careers/",
+    "text": "Careers",
+    "date": null,
+    "description": "Explore your future as a part of the digital revolution in application performance management. Join Dynatrace to follow your passion.",
+    "image": "https://dt-cdn.net/images/dynatrace-leader-in-cloud-monitoring-1200-c08d37c92b.png",
+    "logo": null,
+    "title": "Dynatrace Careers: Explore your future | Dynatrace"
+  },
+  {
+    "baseUrl": "https://www.ecx.io/en/",
+    "url": "https://www.ecx.io/en/academy/",
+    "text": "Academy & Career How we enable you",
+    "date": "2020-04-29T07:46:04.000Z",
+    "description": "Our academy offers numerous training opportunities for our talents. There is always a possibility to further develop your knowledge.",
+    "image": "https://www.ecx.io/wp-content/uploads/2019/05/starry-sky-1654074_1920.jpg",
+    "logo": null,
+    "title": "Academy | ecx.io - an IBM Company"
+  },
+  {
+    "baseUrl": "https://www.ecx.io/en/",
+    "url": "https://jobs.ecx.io/eng",
+    "text": "Career opportunities Jobs @ ecx.io",
+    "date": null,
+    "description": "Current jobs at ecx international AG! Career and interesting jobs with perspective on a comfortable and easy online application in our Job Portal.",
+    "image": "https://jobs.ecx.io/inc/open_graph_images/?job_id=0",
+    "logo": null,
+    "title": "Your career @ ecx.io"
+  },
+  {
+    "baseUrl": "http://www.emakina.com/en-us",
+    "url": "http://www.emakina.com/en-us/careers/careers",
+    "text": "Career",
+    "date": null,
+    "description": null,
+    "image": "http://www.emakina.com/getmedia/a53a0388-f33d-4efd-b9dd-8bea34b16001/facebook.svg?ext=.svg",
+    "logo": null,
+    "title": "Careers"
+  },
+  {
+    "baseUrl": "https://gdi.net",
+    "url": "https://gdi.net/#inpage_item2",
+    "text": "VIEW JOBS",
+    "date": "2020-09-01T10:37:38.000Z",
+    "description": "We provide proven industry focused business process software and data solutions that operate on globally leading technology platforms. Our solutions are complemented by a full range of related professional services, training and on-going long-term support, maintenance, operations and system change m…",
+    "image": "https://gdi.net/wp-content/uploads/2016/04/GDi_cyan_logo_200px.png",
+    "logo": null,
+    "title": "GDi Homepage"
+  },
+  {
+    "baseUrl": "https://giscloud.com/",
+    "url": "https://giscloud.com/careers",
+    "text": "Careers",
+    "date": "2017-06-06T12:25:36.000Z",
+    "description": null,
+    "image": "https://www.giscloud.com/wp-content/uploads/2018/06/GIS-Cloud-on-devices2-2.png",
+    "logo": null,
+    "title": "Careers | GIS Cloud"
+  },
+  {
+    "baseUrl": "https://greyp.com/",
+    "url": "https://greyp-bikes.talentlyft.com/#jobs",
+    "text": "Careers",
+    "date": null,
+    "description": "Browse current career opportunities and apply online for jobs at greyp-bikes",
+    "image": "https://www.talentlyft.com/images/marketing/Adopto_SocialShare_CareersSite.png",
+    "logo": null,
+    "title": "Homepage | greyp-bikes"
+  },
+  {
+    "baseUrl": "https://inetec.hr/",
+    "url": "https://inetec.hr/en/news/reminder-student-awards",
+    "text": "Reminder- Student Awards",
+    "date": "2020-08-28T10:00:00.000Z",
+    "description": "Dear students, we remind you that the competition for our annual INETEC Student Award for the 2019/20 academic year is open until the 30th of September. Take this unique chance to win the award!To apply and to find out more, please visit: https://www.inetec.hr/en/our-company/student-awards/",
+    "image": "https://www.inetec.hr/data/public/2020-08/inetec-award-za-web-1400-x-611.jpg",
+    "logo": null,
+    "title": "Reminder- Student Awards - LATEST NEWS"
+  },
+  {
+    "baseUrl": "https://inetec.hr/",
+    "url": "https://www.inetec.hr/en/our-company/student-awards/",
+    "text": "https://www.inetec.hr/en/our-company/student-awards/",
+    "date": null,
+    "description": "In 2003 INETEC established a student award in cooperation with the University of Zagreb, Faculty of Mechanical Engineering and Naval Architecture, as well as with the University of Zagreb, Faculty of Electrical Engineering and Computing.",
+    "image": "https://www.inetec.hr/data/public/2017-04/inetec_www-assets_01korr.jpg",
+    "logo": null,
+    "title": "STUDENT AWARDS - OUR COMPANY"
+  },
+  {
+    "baseUrl": "https://inetec.hr/",
+    "url": "https://inetec.hr/en/news/reminder-student-awards/",
+    "text": "28.08.2020. Reminder- Student Awards Dear students, we remind you that the competition for our annual INETEC Student Award for the 2019/20 academic year is open until the 30th of September. Take this unique chance to win the award! To apply... Read more",
+    "date": "2020-08-28T10:00:00.000Z",
+    "description": "Dear students, we remind you that the competition for our annual INETEC Student Award for the 2019/20 academic year is open until the 30th of September. Take this unique chance to win the award!To apply and to find out more, please visit: https://www.inetec.hr/en/our-company/student-awards/",
+    "image": "https://www.inetec.hr/data/public/2020-08/inetec-award-za-web-1400-x-611.jpg",
+    "logo": null,
+    "title": "Reminder- Student Awards - LATEST NEWS"
+  },
+  {
+    "baseUrl": "https://infinum.co/",
+    "url": "https://infinum.com/careers/career-switch/",
+    "text": "Apply for Career Switch",
+    "date": "2020-09-08T12:08:15.000Z",
+    "description": "This specialized program allows curious developers to try something new and different.",
+    "image": "https://infinum.com/wp-content/uploads/2019/10/og-Career-switch.jpg",
+    "logo": null,
+    "title": "Start a career at Infinum: Career Switch"
+  },
+  {
+    "baseUrl": "https://infinum.co/",
+    "url": "https://infinum.co/#apply-form",
+    "text": "Apply for Career Switch",
+    "date": null,
+    "description": "An independent design and development agency with offices in the US and Europe. We create beautiful apps people love to use.",
+    "image": "https://assets.infinum.com/infinum.png",
+    "logo": null,
+    "title": "Infinum | App design & development"
+  },
+  {
+    "baseUrl": "https://www.infobip.com",
+    "url": "https://www.infobip.com/careers",
+    "text": "Careers",
+    "date": null,
+    "description": null,
+    "image": "https://cdn-www.infobip.com/wp-content/uploads/2019/11/19152130/careers-header.jpg",
+    "logo": null,
+    "title": "Careers Archive - Infobip"
+  },
+  {
+    "baseUrl": "https://www.jungheinrich.co.uk/",
+    "url": "https://www.jungheinrich.co.uk/about-us/careers/careers-faq-125558",
+    "text": "Careers FAQ",
+    "date": null,
+    "description": null,
+    "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "logo": null,
+    "title": "Careers FAQ"
+  },
+  {
+    "baseUrl": "https://king-ict.com/",
+    "url": "https://king-ict.com/king-ict-receives-the-friend-of-students-award/",
+    "text": "15.6.2020. KING ICT receives the “Friend of students” award On Monday, 8 June, the 10th jubilee Golden Index Awards ceremony was held to celebrate companies that have established successful cooperation with students. It is our honour that KING ICT was awarded the “Friend of students” recognition, thanks to our ongoing interest, engagement and investment in our relationship with the student community. The Golden Index […]",
+    "date": "2020-06-30T13:49:58.000Z",
+    "description": "On Monday, 8 June, the 10th jubilee Golden Index Awards ceremony was held to celebrate companies that have established successful cooperation with students. It is our honour that KING ICT was awarded the “Friend of students” recognition, thanks to our ongoing interest, engagement and investment in o…",
+    "image": "https://king-ict.com/wp-content/uploads/2020/06/student.jpg",
+    "logo": null,
+    "title": "KING ICT receives the “Friend of students” award - KING ICT"
+  },
+  {
+    "baseUrl": "https://king-ict.com/",
+    "url": "https://king-ict.com/video-students-and-mentors-about-the-king-ict-academy/",
+    "text": "23.6.2020. VIDEO Students and mentors about the KING ICT Academy Registration for the KING ICT Academy 2020 are underway, and while applications are being accepted, here is what our former participants and mentors have to say about our academy. To recall, as part of the academy, all participants will receive free education and a paid internship under our experts. All interested students, full-time and part-time, […]",
+    "date": "2020-06-30T13:41:48.000Z",
+    "description": "Registration for the KING ICT Academy 2020 are underway, and while applications are being accepted, here is what our former participants and mentors have to say about our academy. To recall, as part of the academy, all participants will receive free education and a paid internship under our experts.…",
+    "image": "https://king-ict.com/wp-content/uploads/2020/06/King-akademija-1.jpg",
+    "logo": null,
+    "title": "VIDEO Students and mentors about the KING ICT Academy - KING ICT"
+  },
+  {
+    "baseUrl": "https://www.knapp.com/en/",
+    "url": "https://www.knapp.com/en/#",
+    "text": "Career",
+    "date": "2020-06-24T11:51:35.000Z",
+    "description": "KNAPP offers intelligent automation solutions and specialized software for production, distribution and the point-of-sale all from a single source.",
+    "image": "https://www.knapp.com/wp-content/uploads/Slider_Unternehmen.jpg",
+    "logo": null,
+    "title": "KNAPP I Intelligent automation for production, distribution and point of sale"
+  },
+  {
+    "baseUrl": "https://www.knapp.com/en/",
+    "url": "https://www.theapplicantmanager.com/careers?co=kl",
+    "text": "Jobs in North AmericaKNAPP Inc.Kennesaw, GA-",
+    "date": null,
+    "description": "KNAPP is a global company with 43 locations and over 4,500 employees worldwide. Ranked among the top 10 material handling suppliers, KNAPP continues a trad",
+    "image": "https://www.knapp.com/en/images/logos/knapp.png",
+    "logo": null,
+    "title": "Knapp Careers | The Applicant Manager"
+  },
+  {
+    "baseUrl": "https://www.knapp.com/en/",
+    "url": "https://www.knapp.com/en/career/apprenticeships-and-training/",
+    "text": "KNAPP for students Holiday job, internship or thesis? Click here to discover what we offer.",
+    "date": "2020-03-05T10:00:12.000Z",
+    "description": null,
+    "image": "https://www.knapp.com/wp-content/uploads/KNAPP_Lehrlinge-300x164.jpg",
+    "logo": null,
+    "title": "Apprenticeships and training - KNAPP"
+  },
+  {
+    "baseUrl": "https://www.koios.hr",
+    "url": "https://www.koios.hr/karijera-u-koiosu-zaposljavamo-bi-konzultante-java-i-net-developere/",
+    "text": "Career at Koios – We’re hiring BI consultants, Java and .NET developers",
+    "date": null,
+    "description": "Koios is specialized in business intelligence and application development in financial industry. Our team is made of exceptional experts competent to most challenging projects.",
+    "image": "https://www.koios.hr/wp-content/uploads/2018/11/news-02.jpg?v=172436510",
+    "logo": null,
+    "title": "KOIOS - Career at Koios – We’re hiring BI consultants, Java and .NET developers"
+  },
+  {
+    "baseUrl": "https://www.koios.hr",
+    "url": "https://www.koios.hr/summer-internship-applications-are-open/",
+    "text": "Applications for summer internship are open",
+    "date": null,
+    "description": "Koios is specialized in business intelligence and application development in financial industry. Our team is made of exceptional experts competent to most challenging projects.",
+    "image": "https://www.koios.hr/wp-content/uploads/2019/05/koios_8-resize-1024x683.jpg?v=1639557160",
+    "logo": null,
+    "title": "KOIOS - Applications for summer internship are open"
+  },
+  {
+    "baseUrl": "https://www.koncar-ket.hr/en/",
+    "url": "https://www.koncar-ket.hr/en/careers/",
+    "text": "Careers",
+    "date": null,
+    "description": null,
+    "image": "https://www.koncar-ket.hr/wp-content/themes/koncar/skin/public/images/koncar_preloader.svg",
+    "logo": null,
+    "title": "Careers - Koncar KET"
+  },
+  {
+    "baseUrl": "https://krakensystems.co/",
+    "url": "https://krakensystems.co/careers/site-reliability-engineer/",
+    "text": "Internship/Permanent Site Reliability Engineer (SRE) (f/m) Zagreb, Croatia",
+    "date": null,
+    "description": "Kraken Systems is offering a summer internship in our Zagreb office for the position of Site Reliability Engineer (SRE).",
+    "image": "https://krakensystems.co/assets/images/jobs/sre.jpg",
+    "logo": null,
+    "title": "Site Reliability Engineer (SRE) (f/m) @ Kraken Systems"
+  },
+  {
+    "baseUrl": "https://krakensystems.co/",
+    "url": "https://krakensystems.co/careers/machine-learning-engineer/",
+    "text": "Internship/Permanent Machine Learning Engineer (f/m) Zagreb, Croatia",
+    "date": null,
+    "description": "Kraken Systems is offering a summer internship in our Zagreb office for the position of Machine Learning Engineer.",
+    "image": "https://krakensystems.co/assets/images/jobs/ml_engineer.jpg",
+    "logo": null,
+    "title": "Machine Learning Engineer (f/m) @ Kraken Systems"
+  },
+  {
+    "baseUrl": "https://krakensystems.co/",
+    "url": "https://krakensystems.co/careers/frontend-engineer/",
+    "text": "Internship/Permanent Frontend Engineer (f/m) Zagreb, Croatia",
+    "date": null,
+    "description": "Kraken Systems is offering a summer internship in our Zagreb office for the position of Frontend Engineer.",
+    "image": "https://krakensystems.co/assets/images/jobs/fe_engineer.jpg",
+    "logo": null,
+    "title": "Frontend Engineer (f/m) @ Kraken Systems"
+  },
+  {
+    "baseUrl": "https://krakensystems.co/",
+    "url": "https://krakensystems.co/careers/backend-engineer/",
+    "text": "Internship/Permanent Backend Engineer (f/m) Zagreb, Croatia",
+    "date": null,
+    "description": "Kraken Systems is offering a summer internship in our Zagreb office for the position of Backend Engineer.",
+    "image": "https://krakensystems.co/assets/images/jobs/be_engineer.jpg",
+    "logo": null,
+    "title": "Backend Engineer (f/m) @ Kraken Systems"
+  },
+  {
+    "baseUrl": "https://www.megatrend.com/language/en/",
+    "url": "https://www.megatrend.com/posao/prakse/",
+    "text": "Student practice",
+    "date": null,
+    "description": null,
+    "image": "https://www.megatrend.com/wp-content/themes/maxima-v1-02/images/icon/social-icon/facebook.png",
+    "logo": null,
+    "title": "MPR » Prakse"
+  },
+  {
+    "baseUrl": "https://www.megatrend.com/language/en/",
+    "url": "https://www.megatrend.com/career/",
+    "text": "Career",
+    "date": null,
+    "description": null,
+    "image": "https://www.megatrend.com/wp-content/themes/maxima-v1-02/images/icon/social-icon/facebook.png",
+    "logo": null,
+    "title": "MPR » Career"
+  },
+  {
+    "baseUrl": "https://memgraph.com/",
+    "url": "https://memgraph.com/company/careers",
+    "text": "Careers",
+    "date": null,
+    "description": "We’re always looking for talented people to join our engineering, product, and business teams. Check out our open positions.",
+    "image": "https://i.imgur.com/WKswgVa.jpg",
+    "logo": null,
+    "title": "Memgraph Careers | Help Us Build the Future of Data"
+  },
+  {
+    "baseUrl": "https://memgraph.com/",
+    "url": "https://memgraph.com/company/internships",
+    "text": "internship positions",
+    "date": null,
+    "description": "If you are an engineering student who wants to work on some seriously challenging problems, Memgraph is the place for you. Check out our internship positions.",
+    "image": "https://i.imgur.com/WKswgVa.jpg",
+    "logo": null,
+    "title": "Memgraph Internship"
+  },
+  {
+    "baseUrl": "https://memgraph.com/",
+    "url": "https://memgraph.com/apply/internship",
+    "text": "Apply For an internship",
+    "date": null,
+    "description": null,
+    "image": "https://uploads-ssl.webflow.com/5e7ceb09657a69bdab054b3a/5e7ceb09657a6937ab054bba_Black_Original%20_Logo.png",
+    "logo": null,
+    "title": "Not Found"
+  },
+  {
+    "baseUrl": "https://memgraph.com/",
+    "url": "https://memgraph.com/#",
+    "text": "Work on What MattersAs an intern, you will be working on real‑world problems and products that are used by our customers.",
+    "date": null,
+    "description": "Memgraph is an in-memory first Cypher compatible graph database engineered to deliver predictable high-performance for operational applications.",
+    "image": "https://i.imgur.com/1dcPJna.jpg",
+    "logo": null,
+    "title": "Memgraph | In-Memory Cypher Graph Database"
+  },
+  {
+    "baseUrl": "https://mercury-processing.com/",
+    "url": "https://mercury-processing.com/careers/",
+    "text": "Careers",
+    "date": "2020-07-17T08:15:43.000Z",
+    "description": "Apply to an open job position.",
+    "image": "https://mercury-processing.com/wp-content/uploads/2018/05/final-65.jpg",
+    "logo": null,
+    "title": "Careers & Open Positions - Mercury Processing Services International"
+  },
+  {
+    "baseUrl": "http://microblink.com/",
+    "url": "http://microblink.com/var/site/storage/images/careers/slice-of-life/8.-supporting-early-career-development/7493-4-eng-GB/8.-Supporting-early-career-development_i1920.jpg",
+    "text": "Supporting students’ early career development",
+    "date": null,
+    "description": null,
+    "image": "https://microblink.com/var/site/storage/images/careers/slice-of-life/8.-supporting-early-career-development/7493-4-eng-GB/8.-Supporting-early-career-development_i1920.jpg",
+    "logo": null,
+    "title": "8.-Supporting-early-career-development_i1920.jpg (720×540)"
+  },
+  {
+    "baseUrl": "http://microblink.com/",
+    "url": "http://microblink.com/careers/jobs/open-application",
+    "text": "Open application Your interests differ from our open positions? Don’t worry, we are always on the lookout for new talent. Send us your resume and let’s have a chat about career opportunities that interest you. Zagreb, Croatia",
+    "date": null,
+    "description": "Your interests differ from our open positions? Don’t worry, we are always on the lookout for new talent. Send us your resume and let’s have a chat about career opportunities that interest you.",
+    "image": "https://microblink.com/var/site/storage/images/careers/jobs/open-application/20038-8-eng-GB/open-application_opengraph.png",
+    "logo": null,
+    "title": "Open application"
+  },
+  {
+    "baseUrl": "https://mstart.hr/en/",
+    "url": "https://mstart.hr/en/pripravnik-u-odjelu-podrske-poslovnog-izvjestavanja-bim-z/",
+    "text": "Business Reporting Support (BI) intern (m / f)",
+    "date": "2019-03-06T08:36:32.000Z",
+    "description": "mStart d.o.o. je poslovno-tehnološka tvrtka orijentirana na razvoj, implementaciju, integraciju i podršku poslovnih informacijskih sustava i rješenja, te digitalnu transformaciju.…",
+    "image": "https://mstart.hr/wp-content/uploads/2017/11/mStart_karijere_Oracle-Forms_Java-Developer.jpg",
+    "logo": null,
+    "title": "Business Reporting Support (BI) intern (m / f) - mStart"
+  },
+  {
+    "baseUrl": "http://nanobit.com/",
+    "url": "https://nanobit.talentlyft.com/jobs/junior-story-designer-student-mf-jkU",
+    "text": "Junior Story Designer (Student, m/f) Zagreb, Croatia",
+    "date": null,
+    "description": "Put extra into ordinary!",
+    "image": "https://adoptoprod.blob.core.windows.net/careers/e62af4ca-29b2-494c-9e22-53448e612553.png",
+    "logo": null,
+    "title": "Junior Story Designer (m/f)"
+  },
+  {
+    "baseUrl": "http://nanobit.com/",
+    "url": "https://nanobit.talentlyft.com/jobs/content-designer-student-mf-ipp",
+    "text": "Content Designer (Student, m/f) Zagreb, Croatia",
+    "date": null,
+    "description": "Put extra into ordinary!",
+    "image": "https://adoptoprod.blob.core.windows.net/careers/42a370f7-e662-45e5-8ecc-33727dda1821.png",
+    "logo": null,
+    "title": "Content Designer (Student, m/f) - Nanobit"
+  },
+  {
+    "baseUrl": "http://netgenlabs.com/",
+    "url": "http://netgenlabs.com/#currentpositions",
+    "text": "Would you like to join us?",
+    "date": null,
+    "description": "Netgen, as an eZ Systems business partner, provides complete web solutions built on top of eZ Publish CMS, along with consulting and support.",
+    "image": "https://netgen.io/var/site/storage/images/media/configuration/netgen/23249-75-eng-GB/netgen-siteinfo.png",
+    "logo": null,
+    "title": "Netgen"
+  },
+  {
+    "baseUrl": "http://nttdata.com/",
+    "url": "http://nttdata.com/#careers-menu",
+    "text": "Careers",
+    "date": null,
+    "description": "NTT DATA is a Global IT Innovator delivering technology-enabled services and solutions to clients around the world.",
+    "image": "http://nttdata.com/global/en/-/media/nttdataglobal/images/home/menu-image/about-us.jpg?h=163&la=en&w=245&hash=14EA588A8BE7C2C54D512E2E5573FF1F870BDADD",
+    "logo": null,
+    "title": "Home｜NTT DATA"
+  },
+  {
+    "baseUrl": "http://nttdata.com/",
+    "url": "http://nttdata.com/#",
+    "text": "Careers",
+    "date": null,
+    "description": "NTT DATA is a Global IT Innovator delivering technology-enabled services and solutions to clients around the world.",
+    "image": "http://nttdata.com/global/en/-/media/nttdataglobal/images/home/menu-image/about-us.jpg?h=163&la=en&w=245&hash=14EA588A8BE7C2C54D512E2E5573FF1F870BDADD",
+    "logo": null,
+    "title": "Home｜NTT DATA"
+  },
+  {
+    "baseUrl": "https://photomath.net/",
+    "url": "https://photomath.net/#OpenPositions",
+    "text": "Join us",
+    "date": "2020-04-05T10:00:00.000Z",
+    "description": "Photomath is the #1 app for math learning; it can read and solve problems ranging from arithmetic to calculus instantly by using the camera on your mobile device. With Photomath, learn how to approach math problems through animated steps and detailed instructions or check your homework for any print…",
+    "image": "https://photomath.app/i/share/Photomath5.png",
+    "logo": null,
+    "title": "Photomath - Scan. Solve. Learn."
+  },
+  {
+    "baseUrl": "https://www.pbz.hr/en/gradjani",
+    "url": "https://www.pbz.hr/en/gradjani/o-nama/posao-i-karijera/otvorene-pozicije-u-pbz-grupi.html",
+    "text": "Career Opportunities",
+    "date": null,
+    "description": "Find out all the open positions and apply to jobs at PBZ Group.",
+    "image": "https://res.cloudinary.com/digical/image/upload/pbz/publicportal/card_hero_charge_bg.jpg",
+    "logo": null,
+    "title": "Career - Open Positions | PBZ"
+  },
+  {
+    "baseUrl": "https://www.pbz.hr/en/gradjani",
+    "url": "https://www.pbz.hr/en/gradjani/o-nama/posao-i-karijera/kako-ostvariti-karijeru-u-pbz-grupi.html",
+    "text": "How to pursue a career in the PBZ Group?",
+    "date": null,
+    "description": "Find out how to pursue a career in the PBZ Group and read all the testimonies.",
+    "image": "https://res.cloudinary.com/digical/image/upload/pbz/publicportal/card_hero_charge_bg.jpg",
+    "logo": null,
+    "title": "Pursuing a Career at the bank | PBZ"
+  },
+  {
+    "baseUrl": "https://www.pbz.hr/en/gradjani",
+    "url": "https://www.pbz.hr/en/gradjani#id94162c64-a98f-42d1-9944-5af555de63cf",
+    "text": "With a student transcript book",
+    "date": null,
+    "description": "Find out all services and products offered by PBZ: cards, loans, savings, accounts and digital banking.",
+    "image": "https://res.cloudinary.com/digicaltest/image/upload/pbz/publicportal/commons/privredna_banka_zagreb_logo_header.png",
+    "logo": null,
+    "title": "PBZ | Retail"
+  },
+  {
+    "baseUrl": "https://www.rba.hr/en",
+    "url": "https://www.rba.hr/en/karijera",
+    "text": "Career",
+    "date": null,
+    "description": null,
+    "image": "https://static.rba.hr/documents/20182/21851/O-nama-Raiffeisen-Hrvatska-555x270.jpg/e9b72fa4-25f1-5807-f7b9-d3464429c91c?t=1489660119671",
+    "logo": null,
+    "title": "Career at RBA - Raiffeisenbank Hrvatska"
+  },
+  {
+    "baseUrl": "https://www.rba.hr/en",
+    "url": "https://www.rba.hr/en/pridruzite-nam-se",
+    "text": "Join Us View page",
+    "date": null,
+    "description": null,
+    "image": "https://static.rba.hr/documents/20182/21851/O-nama-Raiffeisen-Hrvatska-555x270.jpg/e9b72fa4-25f1-5807-f7b9-d3464429c91c?t=1489660119671",
+    "logo": null,
+    "title": "Join Us - Raiffeisenbank Hrvatska"
+  },
+  {
+    "baseUrl": "https://www.rba.hr/en",
+    "url": "https://www.rba.hr/en/karijera/u-rba",
+    "text": "Career at RBA View page",
+    "date": null,
+    "description": null,
+    "image": "https://static.rba.hr/documents/20182/21851/O-nama-Raiffeisen-Hrvatska-555x270.jpg/e9b72fa4-25f1-5807-f7b9-d3464429c91c?t=1489660119671",
+    "logo": null,
+    "title": "Career at RBA - Raiffeisenbank Hrvatska"
+  },
+  {
+    "baseUrl": "https://www.rba.hr/en",
+    "url": "https://www.rba.hr/en#",
+    "text": "Career",
+    "date": "2020-10-09T10:00:00.000Z",
+    "description": "Saznajte više o RBA kreditima, štednji, Flexi paketima za građane, poduzetnike i obrtnike te otvorite račun u poslovnici banke ili zatražite usluge online.",
+    "image": "https://static.rba.hr/documents/20182/21819/proizvodi-i-usluge-555x260.jpg/63f82af8-a162-4d91-a4bd-33efb1bc0af2?t=1486720172515",
+    "logo": null,
+    "title": "RBA - Raiffeisenbank Hrvatska"
+  },
+  {
+    "baseUrl": "http://rimac-automobili.com/",
+    "url": "http://rimac-automobili.com/en/company/careers/",
+    "text": "Careers",
+    "date": null,
+    "description": "Rimac Automobili is a technology powerhouse, manufacturing electric hypercars and providing full technology solutions to global automotive manufacturers.",
+    "image": "http://rimac-automobili.com/favicon/fbimage.png",
+    "logo": null,
+    "title": "Careers | Rimac Automobili"
+  },
+  {
+    "baseUrl": "http://syntio.hr/",
+    "url": "http://syntio.hr/en/career",
+    "text": "Career",
+    "date": null,
+    "description": "Data engineering company focused on building solutions that create value from clients data",
+    "image": "https://www.syntio.net/share_image.png",
+    "logo": null,
+    "title": "Data engineering company focused on cloud computing platforms"
+  },
+  {
+    "baseUrl": "https://www.vertiv.com/en-emea/",
+    "url": "https://www.vertiv.com/en-emea/#tab-internship-graduate--mba-programs",
+    "text": "Internship, Graduate & MBA Programs",
+    "date": "2020-09-03T10:00:00.000Z",
+    "description": "Vertiv is a global leader in designing, building and servicing critical infrastructure that enables vital applications for data centers, communication networks and commercial and industrial facilities.",
+    "image": "https://www.vertiv.com/Content/images/phase3/logo.svg",
+    "logo": "https://www.vertiv.com/Content/images/phase3/logo.svg",
+    "title": "Vertiv - Official Web Site"
+  },
+  {
+    "baseUrl": "https://www.vertiv.com/en-emea/",
+    "url": "https://www.vertiv.com/en-emea/#",
+    "text": "Scroll down for jobs posted before August 10",
+    "date": "2020-09-03T10:00:00.000Z",
+    "description": "Vertiv is a global leader in designing, building and servicing critical infrastructure that enables vital applications for data centers, communication networks and commercial and industrial facilities.",
+    "image": "https://www.vertiv.com/Content/images/phase3/logo.svg",
+    "logo": "https://www.vertiv.com/Content/images/phase3/logo.svg",
+    "title": "Vertiv - Official Web Site"
+  }
+]
